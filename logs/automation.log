@@ -1,0 +1,52 @@
+14:44:29.029 [main] INFO  api.test.UserTests - ******Creating the user*******
+14:44:32.258 [main] INFO  api.test.UserTests - ******User id is created*******
+14:44:32.277 [main] INFO  api.test.UserTests - ******Reading the user info*******
+14:44:33.705 [main] INFO  api.test.UserTests - ******user info is displayed*******
+14:44:33.715 [main] INFO  api.test.UserTests - ******Updating the user info*******
+14:44:35.171 [main] INFO  api.test.UserTests - ******User Updated *******
+14:44:36.603 [main] INFO  api.test.UserTests - ******Deleting the user *******
+14:44:38.001 [main] INFO  api.test.UserTests - ******User deleted*******
+14:45:43.423 [main] INFO  api.test.UserTests - ******Creating the user*******
+14:45:46.375 [main] INFO  api.test.UserTests - ******User id is created*******
+14:45:46.389 [main] INFO  api.test.UserTests - ******Reading the user info*******
+14:45:47.696 [main] INFO  api.test.UserTests - ******user info is displayed*******
+14:45:47.705 [main] INFO  api.test.UserTests - ******Updating the user info*******
+14:45:49.024 [main] INFO  api.test.UserTests - ******User Updated *******
+14:45:50.338 [main] INFO  api.test.UserTests - ******Deleting the user *******
+14:45:51.630 [main] INFO  api.test.UserTests - ******User deleted*******
+15:51:41.797 [main] DEBUG api.test.UserTests2 - debugging.....
+15:51:41.814 [main] INFO  api.test.UserTests2 - ******Creating the user*******
+15:51:45.620 [main] INFO  api.test.UserTests2 - ******User id is created*******
+15:51:45.643 [main] INFO  api.test.UserTests2 - ******Reading the user info*******
+15:51:46.948 [main] INFO  api.test.UserTests2 - ******user info is displayed*******
+15:51:46.954 [main] INFO  api.test.UserTests2 - ******Updating the user info*******
+15:51:48.247 [main] INFO  api.test.UserTests2 - ******User Updated *******
+15:51:49.550 [main] INFO  api.test.UserTests2 - ******Deleting the user *******
+15:51:50.836 [main] INFO  api.test.UserTests2 - ******User deleted*******
+17:48:17.345 [main] DEBUG api.test.UserTests - debugging.....
+17:48:17.365 [main] INFO  api.test.UserTests - ******Creating the user*******
+17:48:22.908 [main] INFO  api.test.UserTests - ******User id is created*******
+17:48:22.912 [main] INFO  api.test.UserTests - ******Reading the user info*******
+17:48:24.898 [main] INFO  api.test.UserTests - ******user info is displayed*******
+17:48:24.904 [main] INFO  api.test.UserTests - ******Updating the user info*******
+17:48:26.861 [main] INFO  api.test.UserTests - ******User Updated *******
+17:48:29.624 [main] INFO  api.test.UserTests - ******Deleting the user *******
+17:48:31.536 [main] INFO  api.test.UserTests - ******User deleted*******
+17:50:58.591 [main] DEBUG api.test.UserTests2 - debugging.....
+17:50:58.620 [main] INFO  api.test.UserTests2 - ******Creating the user*******
+17:51:05.396 [main] INFO  api.test.UserTests2 - ******User id is created*******
+17:51:05.472 [main] INFO  api.test.UserTests2 - ******Reading the user info*******
+17:51:07.580 [main] INFO  api.test.UserTests2 - ******user info is displayed*******
+17:51:07.603 [main] INFO  api.test.UserTests2 - ******Updating the user info*******
+17:51:09.587 [main] INFO  api.test.UserTests2 - ******User Updated *******
+17:51:11.740 [main] INFO  api.test.UserTests2 - ******Deleting the user *******
+17:51:14.183 [main] INFO  api.test.UserTests2 - ******User deleted*******
+17:58:41.427 [main] DEBUG api.test.UserTests2 - debugging.....
+17:58:41.470 [main] INFO  api.test.UserTests2 - ******Creating the user*******
+17:58:46.889 [main] INFO  api.test.UserTests2 - ******User id is created*******
+17:58:46.951 [main] INFO  api.test.UserTests2 - ******Reading the user info*******
+17:58:48.547 [main] INFO  api.test.UserTests2 - ******user info is displayed*******
+17:58:48.554 [main] INFO  api.test.UserTests2 - ******Updating the user info*******
+17:58:50.082 [main] INFO  api.test.UserTests2 - ******User Updated *******
+17:58:51.632 [main] INFO  api.test.UserTests2 - ******Deleting the user *******
+17:58:53.967 [main] INFO  api.test.UserTests2 - ******User deleted*******
